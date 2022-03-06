@@ -1,0 +1,15 @@
+*{
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+}
+body{
+    text-align: left;
+}
+a{
+    text-decoration: none;
+}
+#h{
+    font-size: 25px;
+}
+.listUnggul{
+    font-weight: bold;
+}
